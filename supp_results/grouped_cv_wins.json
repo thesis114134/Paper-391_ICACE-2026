@@ -1,0 +1,10 @@
+{
+  "reference": "XGB",
+  "folds_where_reference_has_lower_RMSE": {
+    "DT": "15/15",
+    "GBR": "8/15",
+    "LR": "15/15",
+    "RF": "10/15",
+    "SVR": "11/15"
+  }
+}

@@ -1,0 +1,9 @@
+feature,mean_decrease_R2,sd
+age,0.6071,0.0629
+cement,0.5238,0.0603
+water,0.2741,0.0309
+blast_furnace_slag,0.1382,0.0138
+superplasticizer,0.0906,0.0127
+fine_aggregate ,0.04,0.0064
+coarse_aggregate,0.0234,0.0059
+fly_ash,0.0158,0.0049

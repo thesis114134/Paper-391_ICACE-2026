@@ -1,0 +1,30 @@
+{
+  "rows": 838,
+  "exact_duplicate_rows": 20,
+  "mixture_groups": 425,
+  "holdout_train_rows": 670,
+  "holdout_test_rows": 168,
+  "test_rows_whose_mixture_also_in_train": 113,
+  "grouped_cv_test_fold_sizes": [
+    168,
+    151,
+    153,
+    175,
+    191,
+    171,
+    172,
+    166,
+    156,
+    173,
+    179,
+    156,
+    169,
+    155,
+    179
+  ],
+  "rows_with_BFS_or_FA": 669,
+  "rows_BFS_only": 256,
+  "rows_FA_only": 203,
+  "rows_BFS_and_FA": 210,
+  "rows_plain_cement": 169
+}
